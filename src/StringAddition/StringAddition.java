@@ -1,6 +1,7 @@
 package StringAddition;
 
 
+// String Addition
 //Given two non-negative numbers, num1 and num2 represented as strings, sum the integers together and return the result as a string.
 //
 //Ex: Given the following values for num1 and num2...
